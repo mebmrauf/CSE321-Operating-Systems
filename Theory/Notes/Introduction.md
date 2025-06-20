@@ -38,7 +38,7 @@ Let’s say you want to **print a document**:
 4. The OS then tells the **hardware (printer)** to start printing.
 5. Your document is printed successfully.
 
-## What if there was **no Operating System**?
+### What if there was **no Operating System**?
 
 If there were no OS between the **user/application** and the **hardware**, we would face **many serious problems**. Some main issues:
 
@@ -133,7 +133,7 @@ When you open a file or connect to Wi-Fi, the actual work (like talking to the d
 
 A **system call** is like a **bridge** or **a special request** that lets a program in **user mode** ask the **operating system** (which runs in kernel mode) to do something **on its behalf**.
 
-### Simple Real-World Analogy:
+**Simple Real-World Analogy:**
 
 Imagine you’re in a school library.
 
@@ -144,7 +144,7 @@ Imagine you’re in a school library.
 
 This process protects the library (system) and keeps everything safe and organized.
 
-### Example in Computer Terms:
+**Example in Computer Terms:**
 
 Suppose a text editor wants to **save a file**:
 
@@ -154,7 +154,7 @@ Suppose a text editor wants to **save a file**:
 4. The OS writes the data to disk (since only it can do that)
 5. Then it switches back to **user mode**
 
-### Why is a System Call Needed?
+**Why is a System Call Needed?**
 
 Because:
 
@@ -162,6 +162,6 @@ Because:
 - We need a **controlled way** to allow safe interaction between apps and the system
 - It helps the OS **manage everything properly** without risking crashes or security issues
 
-### Summary:
+**Summary:**
 
 A system call is a secure way for programs running in user mode to request services from the operating system, which runs in kernel mode. This separation protects the system from bugs, misuse, or security threats.
