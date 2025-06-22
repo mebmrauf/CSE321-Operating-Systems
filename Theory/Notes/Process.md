@@ -32,18 +32,18 @@ Let’s say you installed the Discord app.
 When a program runs (i.e., becomes a process), the operating system gives it a **memory space**. That space is organized in a specific layout, and it typically looks like this:
 
 ```markdown
-  **↑ Higher Memory Addresses (Top)**
+  ↑ Higher Memory Addresses (Top)
 
   ┌───────┐
-  │ Stack │  ← **Function calls, local variables, return addresses**
+  │ Stack │  ← Function calls, local variables, return addresses
   ├───────┤
-  │ Heap  │  ← **Dynamically allocated memory (e.g., malloc, new)**
+  │ Heap  │  ← Dynamically allocated memory (e.g., malloc, new)
   ├───────┤
-  │ Data  │  ← **Global & static variables (both initialized and uninitialized)**
+  │ Data  │  ← Global & static variables (both initialized and uninitialized)
   ├───────┤
-  │ Text  │  ← **Actual program instructions (code)**
+  │ Text  │  ← Actual program instructions (code)
   └───────┘
-  **↓ Lower Memory Addresses (Bottom)**
+  ↓ Lower Memory Addresses (Bottom)
 
 ```
 
@@ -58,8 +58,8 @@ When a program runs (i.e., becomes a process), the operating system gives it a *
 **Example:**
 
 ```markdown
-You call a function **add(2, 3)** → arguments (2, 3)
-and return address get stored in the **stack**.
+You call a function add(2, 3) → arguments (2, 3)
+and return address get stored in the stack.
 ```
 
 ### **Heap**
@@ -70,8 +70,8 @@ and return address get stored in the **stack**.
 Example:
 
 ```markdown
-In C: **int* ptr = malloc(4 * sizeof(int));**
-Memory for 4 integers is allocated in the **heap**.
+In C: int* ptr = malloc(4 * sizeof(int));
+Memory for 4 integers is allocated in the heap.
 ```
 
 ### Data
@@ -84,7 +84,7 @@ Divided into two parts:
 Example:
 
 ```markdown
-Global or static variables like **int score = 100**; go into the **data section**.
+Global or static variables like int score = 100; go into the data section.
 ```
 
 ### Text
@@ -95,7 +95,7 @@ Global or static variables like **int score = 100**; go into the **data section*
 Example:
 
 ```markdown
-The instructions of **main()** function live in the **text** section.
+The instructions of main() function live in the text section.
 ```
 
 ### Example
