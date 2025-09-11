@@ -10,3 +10,11 @@ This course provides a general understanding of the principles and concepts gove
 - Understanding the secondary memory management and file systems concepts and analysing file system implementation.
 - Understanding mechanisms of main and virtual memory management of OS.
 - Analysing OS level security threats and the methods used to provide protection from the threats.
+
+## Playlist
+
+### Operating System
+    https://youtube.com/playlist?list=PLgrAmbRAezujiknEO3sqpyCC4K3IgS4KU
+    
+### HFN
+    https://youtube.com/playlist?list=PLXgQJeLCvzm6tIj4Td4szD2GQZ2szoDxU
