@@ -18,3 +18,14 @@ This course provides a general understanding of the principles and concepts gove
     
 ### HFN
     https://youtube.com/playlist?list=PLXgQJeLCvzm6tIj4Td4szD2GQZ2szoDxU
+
+## Process Synchronization
+
+### The Bounded Buffer Problem
+    https://youtu.be/Qx3P2wazwI0
+
+### The Dining Philosophers Problem
+    https://youtu.be/FYUi-u7UWgw
+
+### The Readers Writers Problem
+    https://youtu.be/p2XDhW5INOo
