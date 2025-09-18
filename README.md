@@ -12,20 +12,12 @@ This course provides a general understanding of the principles and concepts gove
 - Analysing OS level security threats and the methods used to provide protection from the threats.
 
 ## Playlist
-
-### Operating System
-    https://youtube.com/playlist?list=PLgrAmbRAezujiknEO3sqpyCC4K3IgS4KU
     
 ### HFN
     https://youtube.com/playlist?list=PLXgQJeLCvzm6tIj4Td4szD2GQZ2szoDxU
 
-## Process Synchronization
+### Operating System by Neso Academy
+    https://youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O
 
-### The Bounded Buffer Problem
-    https://youtu.be/Qx3P2wazwI0
-
-### The Dining Philosophers Problem
-    https://youtu.be/FYUi-u7UWgw
-
-### The Readers Writers Problem
-    https://youtu.be/p2XDhW5INOo
+### Operating System by Farhan Hossan
+    https://youtube.com/playlist?list=PLgrAmbRAezujiknEO3sqpyCC4K3IgS4KU
