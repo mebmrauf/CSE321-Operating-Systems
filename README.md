@@ -16,8 +16,8 @@ This course provides a general understanding of the principles and concepts gove
 ### HFN
     https://youtube.com/playlist?list=PLXgQJeLCvzm6tIj4Td4szD2GQZ2szoDxU
 
-### Operating System by Neso Academy
+### Operating System (Neso Academy)
     https://youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O
 
-### Operating System by Farhan Hossan
+### Operating System (Farhan Hossan)
     https://youtube.com/playlist?list=PLgrAmbRAezujiknEO3sqpyCC4K3IgS4KU
